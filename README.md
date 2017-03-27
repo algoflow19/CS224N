@@ -5,4 +5,4 @@
 #### Report
 
 #### Poster
-<img src="project/poster/poster.png" width="1200" alt="CityInfo"/>
+<img src="project/poster/poster.pdf" width="1200" alt="CityInfo"/>
